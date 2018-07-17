@@ -1,0 +1,1 @@
+1.在react中，ReactDOM.render(x,x)是用来把组件渲染到页面的，class Nm extends Component { render(){return()}}是创建组件并渲染的

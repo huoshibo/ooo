@@ -1,0 +1,39 @@
+开发工具账号
+JIRA账号：work.zuk.com:8080
+
+ 提BUG
+
+Confluence账号：work.zuk.com:8090
+
+
+联想邮箱：mail.lenovo.com
+
+Git账号
+
+用户名密码都是ITcode
+Gerrit账号（http://10.100.121.171:8080/#/q/status:open）
+
+
+用户名密码都是ITCode
+
+
+虚拟机使用
+
+10.100.121.116及10.100.121.153
+
+
+用户名密码都是ITCode
+
+
+https://blog.csdn.net/nxh_love/article/details/10328849  manifest.webapp
+
+
+https://developer.mozilla.org/en-US/docs/Archive/B2G_OS/Platform/Gaia/Gaia_apps  b2g官网
+http://mobile.51cto.com/others-376984.htm
+https://developer.mozilla.org/zh-CN/Marketplace/Options/Self_publishing
+https://developer.mozilla.org/en-US/docs/Archive/B2G_OS
+https://developer.mozilla.org/en-US/docs/Archive/B2G_OS/Quickstart/Your_first_app
+
+
+
+http://10.100.121.116:8080/releasePlatform/login.vm   后台管理系统
